@@ -1,5 +1,5 @@
 ![Solved.ac Profile](https://capsule-render.vercel.app/api?type=Waving&color=638fda&height=200&section=header&text=(본인아이디)&fontSize=70&&fontColor=ffffff)    
-![(본인아이디)'s GitHub stats](https://github-readme-stats.vercel.app/api?username=(본인아이디)&show_icons=true&theme=tokyonight)
+![(mikatti1122)'s GitHub stats](https://github-readme-stats.vercel.app/api?username=(본인아이디)&show_icons=true&theme=tokyonight)
 ![(본인아이디)'s profile](https://github-profile-trophy.vercel.app/?username=(본인아이디)&margin-h=50&margin-w=10&row=1&column=8&no-frame=false&theme=algolia)  
 ## 교육
 * **(2023.03 ~ 2027.06) 한국외국어대학교 컴퓨터공학부**
